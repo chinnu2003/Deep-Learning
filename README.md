@@ -6,7 +6,7 @@
 
 ---
 
-**Programming language used** : Python
+- **Programming language used** : Python
 
-**Frameworks and libraries used** : TensorFlow, Pandas, Numpy,Scikit-learn, Matplotlib
+- **Frameworks and libraries used** : TensorFlow, Pandas, Numpy,Scikit-learn, Matplotlib
 
